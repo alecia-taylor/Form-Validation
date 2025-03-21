@@ -20,6 +20,5 @@ A lightweight and efficient JavaScript-based form validation system designed to 
    git clone https://github.com/alecia-taylor/Form-Validation.git
 
 ##  Contact
-💬 Questions or suggestions? Reach out via:
-📧 alecia.taylor0@gmail.co
-🌐 linkedin.com/alecia-taylor
+💬 Questions or suggestions? Reach out via: alecia.taylor0@gmail.com
+🌐 https://linkedin.com/alecia-taylor
