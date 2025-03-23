@@ -21,4 +21,4 @@ A lightweight and efficient JavaScript-based form validation system designed to 
 
 ##  Contact
 💬 Questions or suggestions? Reach out via: alecia.taylor0@gmail.com
-🌐 https://linkedin.com/alecia-taylor
+🌐 https://linkedin.com/in/alecia-taylor
